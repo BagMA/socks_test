@@ -1,10 +1,24 @@
-package com.exmple;
+package com.exmple.entity;
 
+import javax.persistence.*;
+
+@Entity
+@Table(name = "socks")
 public class Socks {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
+    private int id;
+
+    @Column(name = "color")
     private String color;
 
+    @Column(name = "cottonPart")
     private int cottonPart;
+
+    public Socks() {
+    }
 
     public Socks(String color, int cottonPart) {
         this.color = color;

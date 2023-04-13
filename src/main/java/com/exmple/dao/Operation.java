@@ -1,4 +1,4 @@
-package com.exmple;
+package com.exmple.dao;
 
 public enum Operation {
     MORE_THAN,

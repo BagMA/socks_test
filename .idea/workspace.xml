@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79396840-2fe4-4f95-a666-012021bd3bf9" name="Changes" comment="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter">
       <change afterPath="$PROJECT_DIR$/ersmixaiIdeaProjectssocks_test2_rest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

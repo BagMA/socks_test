@@ -33,7 +33,6 @@ public class AccountDAOImpl implements AccountDAO {
     @Override
     public List<Socks> getAllSocks(String color, String operation, int cottonPart) {
         Session session = entityManager.unwrap(Session.class);
-//        String moreThan = Operation.MORE_THAN.getState();
         List<Socks> allSocks = null;
         Query<Socks> query;
         switch (operation) {
@@ -46,7 +45,6 @@ public class AccountDAOImpl implements AccountDAO {
                     System.out.println("Таких носков нет!");
                 }
                 break;
-//                return allSocks;
             case "lessThan":
                  query = session.createQuery("from Socks where color= :paramColor and cotton_part< :paramCotton", Socks.class);
                 query.setParameter("paramColor", color);

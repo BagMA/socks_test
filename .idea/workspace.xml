@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79396840-2fe4-4f95-a666-012021bd3bf9" name="Changes" comment="Added Spring Boot, connected to database">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/exmple/SocksTestSpringbootApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/exmple/controller/SocksRESTControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/exmple/dao/AccountDAOImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/exmple/entity/SocksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/exmple/service/SocksServiceImplTest.java" afterDir="false" />
+    <list default="true" id="79396840-2fe4-4f95-a666-012021bd3bf9" name="Changes" comment="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/controller/MyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/controller/SocksRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/controller/SocksRESTController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/dao/AccountDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/dao/AccountDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/dao/AccountDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/dao/Accounting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/dao/Accounting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/dao/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/dao/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/entity/Socks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/entity/Socks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/service/SocksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/service/SocksService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/service/SocksServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/service/SocksServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Spring Boot, connected to database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Spring Boot, connected to database" />
+    <MESSAGE value="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter" />
   </component>
 </project>

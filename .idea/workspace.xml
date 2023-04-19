@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79396840-2fe4-4f95-a666-012021bd3bf9" name="Changes" comment="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/exmple/dao/AccountDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exmple/dao/AccountDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ersmixaiIdeaProjectssocks_test2_rest" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +33,28 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NdNJUKipKeOKCAf9YswhQPZK9S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/mixai/IdeaProjects/socks_test2_rest/src/main/java/com/exmple&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mixai/IdeaProjects/socks_test2_rest/src/main/java/com/exmple&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "C:/Users/mixai/IdeaProjects/socks_test2_rest/src/main/java/com/exmple",
+    "last_opened_file_path": "C:/Users/mixai/IdeaProjects/socks_test2_rest/src/main/java/com/exmple",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mixai\IdeaProjects\socks_test2_rest\src\main\java\com\exmple" />
@@ -155,6 +158,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added Spring Boot, connected to database" />
     <MESSAGE value="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter" />
     <option name="LAST_COMMIT_MESSAGE" value="Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter" />

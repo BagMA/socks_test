@@ -1,0 +1,42 @@
+[33mcommit 826d2f0e8a94887da124750f9c265ad591e9b3ad[m[33m ([m[1;36mHEAD -> [m[1;32mlesson3[m[33m)[m
+Author: mixail <mbagin553@gmail.com>
+Date:   Fri Mar 31 21:52:05 2023 +0500
+
+    Added methods addNewsSocks, showSocksInColorAndCotton, showAllSocks with parameter
+
+[33mcommit b04cc3e338fb50f17fa02278fdcad4ed993f3b06[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 2c47031 4d3b27b
+Author: BagMA <123481488+BagMA@users.noreply.github.com>
+Date:   Tue Mar 28 11:59:13 2023 +0500
+
+    Merge pull request #1 from BagMA/lesson1
+    
+    Lesson1
+
+[33mcommit 4d3b27b965f99a3a235bbefa7305f841ff9772cc[m[33m ([m[1;31morigin/lesson1[m[33m)[m
+Author: mixail <mbagin553@gmail.com>
+Date:   Sun Mar 26 12:46:15 2023 +0500
+
+    Add class Accounting and Main;
+    Add method toString class Socks;
+    Add all package com.exmple
+
+[33mcommit 8d02d06a5ccbf6f149a5603f0d7b896ffed16690[m
+Author: mixail <mbagin553@gmail.com>
+Date:   Sun Mar 26 12:28:46 2023 +0500
+
+    Add class Accounting and Main;
+    Add method toString class Socks;
+    Add all package com.exmple
+
+[33mcommit c809da64bf92d1edf4757ea30e1cc2ed78376f72[m
+Author: mixail <mbagin553@gmail.com>
+Date:   Sat Mar 25 17:45:26 2023 +0500
+
+    Add class Socks and enum Operation
+
+[33mcommit 2c4703116ec214fa4268fd5ce6bb118442c6873f[m
+Author: BagMA <123481488+BagMA@users.noreply.github.com>
+Date:   Sat Mar 25 17:15:08 2023 +0500
+
+    Initial commit
